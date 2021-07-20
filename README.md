@@ -4,4 +4,8 @@ This is a simulation of Schelling's Segregation Model from the 70's. In the mode
 
 Every tick of the simulation, all the unsatisfied people (cells) move. The simulation terminates when all cells are satisfied. 
 
+The blue people that blue citizens want to be beside is called the ratio of similarity, this can be varied by the slider given. Dimensions can also be changed using a slider. 
+
+The simulation can be used to show how a population with basic wants (the want to be around a certain proportion of similar humans) can end up segregated despite innocent intentions. 
+
 To interact with this simulation simply click https://hymanimy.github.io/Schellings-Segregation-Model/ or clone the repository and run the index.html file
